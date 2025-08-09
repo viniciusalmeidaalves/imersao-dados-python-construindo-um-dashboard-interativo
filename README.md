@@ -4,7 +4,10 @@ Este projeto é um dashboard interativo construído com Streamlit para explorar 
 
 A aplicação permite aos usuários filtrar os dados por ano, senioridade, tipo de contrato e tamanho da empresa para obter insights mais específicos.
 
-[Dashboard de Salários na Área de Dados](https://i.imgur.com/image_0228a0.png) 
+[Dashboard de Salários na Área de Dados](https://imersao-dados-python-construindo-um-dashboard-interativo-axksi.streamlit.app/) 
+
+<img width="1365" height="696" alt="image" src="https://github.com/user-attachments/assets/20a989dc-486b-485f-a5ca-8a917e4d7075" />
+
 
 ## Funcionalidades Principais
 
